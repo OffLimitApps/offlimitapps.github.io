@@ -42,10 +42,6 @@ p {
 }
 footer {
     border-top: 4px solid #007c7c;
-    font-size: .8em;
-    text-align: center;
-    margin-left: auto;
-    margin-right: auto;
 }
 
 ul.posts { 
