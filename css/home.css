@@ -1,4 +1,5 @@
 body {
+    margin: 60px auto;
     width: 70%;
 }
 nav ul {
@@ -10,7 +11,6 @@ nav ul {
 }
 
 footer ul {
-    float: right;
     padding: 0px;
     list-style: none;
 }
