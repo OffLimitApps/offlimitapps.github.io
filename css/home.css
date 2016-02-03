@@ -1,5 +1,6 @@
 body {
     margin: 60px auto;
+    padding: 0;
     width: 70%;
 }
 nav ul {
@@ -11,8 +12,7 @@ nav ul {
 }
 
 footer ul {
-    font-weight: 300;
-    font-family: 'Roboto', sans-serif;
+    float: right;
     padding: 0px;
     list-style: none;
 }
