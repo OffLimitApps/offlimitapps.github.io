@@ -36,8 +36,15 @@ h1 {
     font-size: 3em;
     font-family: 'Roboto', sans-serif;
 }
-p {
+h2 {
     font-size: 1.5em;
+    font-weight: 300;
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.4em;
+    color: #333;
+}
+p {
+    font-size: 1em;
     font-weight: 300;
     font-family: 'Roboto', sans-serif;
     line-height: 1.4em;
