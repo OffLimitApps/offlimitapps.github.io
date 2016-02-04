@@ -16,10 +16,16 @@ footer ul {
     text-align: center;
     margin-left: auto;
     margin-right: auto;
+    overflow: auto;
 }
 
-nav ul li, footer ul li {
+footer ul li {
     display: inline;
+    margin-right: 20px;
+}
+nav ul li {
+    display: inline;
+    float: left;
     margin-right: 20px;
 }
 a {
